@@ -12,6 +12,10 @@
 /.next/
 /out/
 
+# deploy
+build
+_static
+
 # misc
 .DS_Store
 .env*
